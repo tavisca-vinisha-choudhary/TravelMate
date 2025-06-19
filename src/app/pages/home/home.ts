@@ -29,7 +29,7 @@ interface Faq {
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand fw-bold" href="#">TravelMate</a>
+        <a class="navbar-brand fw-bold" href="#">ChaseMate</a>
         <ul class="navbar-nav ms-auto align-items-center">
           <li class="nav-item mx-2"><a class="nav-link" href="#">Help</a></li>
           <li class="nav-item mx-2">
